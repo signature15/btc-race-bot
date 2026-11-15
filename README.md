@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/btc-race-24h-20261115-0828/signature15/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
 [![reward](https://make.fun/badge/btc-race-24h-20261115-0828/signature15/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
 
-Dual-engine mean-reversion scalper and capitulation runner for cbBTC.
+Five-leg de-sequenced dip-reversion and capitulation swing trading bot for cbBTC. Built for make.fun 24-hour race.
 
 ## Run it
 
