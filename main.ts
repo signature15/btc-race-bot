@@ -1,4 +1,5 @@
 
+// Five-leg de-sequenced dip-reversion & capitulation swing bot for cbBTC (make.fun 24h race)
 import { runBars, type BarsState, type Batch, type BuyInput, type OrderInput, type SellInput } from './vendor/makefun-bars.ts';
 
 const SYMBOL = 'CBBTC';
