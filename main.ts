@@ -1,3 +1,7 @@
+// cbBTC Dual-Engine Mean-Reversion Scalper & Capitulation Runner
+// Strategy: cbBTC 1-minute Orca Whirlpool pool replay on Solana.
+// Combines a 2.0% shallow dip scalp engine and a 2.2% capitulation deep dip runner.
+// Optimized for strict risk-adjusted net PnL and zero execution rejects.
 
 import { BPS, runBars, type Bar, type BarsState, type BuyInput, type SellInput } from './vendor/makefun-bars.ts';
 
